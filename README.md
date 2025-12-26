@@ -1,16 +1,26 @@
-# text_display_app
+ Text Display App
 
-A new Flutter project.
+A simple mobile application built using Flutter that displays a predefined static text on a single screen.
 
-## Getting Started
+ App Description
+This application displays a fixed text string on the screen.
+No user input, data storage, or complex functionality is included.
+The purpose of this project is to demonstrate setting up a basic mobile application and displaying static text.
 
-This project is a starting point for a Flutter application.
+ Features
+- Displays predefined static text
+- Single screen application
+- Simple and clean UI
+- Beginner-friendly Flutter project
 
-A few resources to get you started if this is your first Flutter project:
+ Technologies Used
+- Flutter
+- Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Prerequisites
+- Flutter SDK installed
+- Android Studio or VS Code
+- Emulator or physical device
+
